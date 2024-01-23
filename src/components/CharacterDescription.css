@@ -1,0 +1,30 @@
+.character-description {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    text-align: center; 
+  }
+  
+  .status-circle {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+  
+  .character-description h3 {
+    color: #333;
+    display: inline-block;
+  }
+  
+  .character-description p {
+    margin: 8px 0;
+    color: #555;
+  }
+  
+  .character-description p strong {
+    font-weight: bold;
+    margin-right: 5px;
+  }
